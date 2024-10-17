@@ -17,7 +17,7 @@ const Menulist = () => {
                 Frequent
             </Menu.Item>
             <Menu.Item key="Others Contacts" icon={<CloudDownloadOutlined />}>
-                Others Contacts
+                Others Contact
             </Menu.Item>
             <Menu.Item key="Marge And Fixed" icon={<ToolOutlined />}>
                 Marge And Fixed
