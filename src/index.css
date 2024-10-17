@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Layout{
+  margin: 0;
+}
+.sidebar {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  height: 100vh;
+  font-size: 22px;
+  width: 200px;
+}
+
+.logo-icon {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+
+}
+.Menulist{
+  padding: 10px;
+}
